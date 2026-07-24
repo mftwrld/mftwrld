@@ -2,88 +2,85 @@
 
 # mft
 
-```text
+```txt
 batch script developer
-
 learning c#
-building tools for windows
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=batch+script;windows+automation;learning+c%23" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=batch+script;windows+automation;learning+c%23" />
 
 </div>
 
 ---
 
-## about
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### about
 
 ```yaml
-name: mft
+username: mft
 
-main_language:
+main:
   - batch script
 
 learning:
   - c#
 
-environment:
+os:
   - windows
 
 editor:
-  - visual studio
   - vscode
-
-currently:
-  - studying
-  - building projects
-  - improving every day
+  - visual studio
 ```
 
----
+</td>
 
-## stack
+<td width="50%" valign="top">
+
+### stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,git,github,vscode,visualstudio,windows&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=windows,cs,vscode,visualstudio,git,github&theme=dark"/>
 
 </p>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-## github
+<table>
+<tr>
 
-<div align="center">
+<td width="50%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mft&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mft&theme=transparent&hide_border=true&show_icons=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mft&layout=compact&theme=transparent&hide_border=true"/>
+</td>
 
-</div>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mft&layout=compact&theme=transparent&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=mft&theme=transparent&hide_border=true"/>
 
 </div>
-
----
-
-## current focus
-
-```c
-while (alive)
-{
-    learn();
-    code();
-    improve();
-}
-```
-
----
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=mft&style=flat-square&color=8b5cf6)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mft&theme=github-compact&hide_border=true"/>
 
 </div>
