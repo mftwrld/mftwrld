@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # mft
@@ -10,7 +11,7 @@
 
 ```txt
 user      :: mft
-main      :: batch
+main      :: batch script
 learning  :: c#
 os        :: windows
 status    :: active
@@ -46,4 +47,4 @@ while (true)
     repeat();
 }
 ```
-````
+
