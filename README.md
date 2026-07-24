@@ -1,16 +1,50 @@
-## Hi there 👋
+````markdown
+<div align="center">
 
-<!--
-**mftwrld/mftwrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# mft
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=18&duration=3500&pause=1000&color=ffffff&center=true&vcenter=true&width=435&lines=batch+script;learning+c%23;building+every+day" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```txt
+user      :: mft
+main      :: batch
+learning  :: c#
+os        :: windows
+status    :: active
+```
+
+---
+
+### stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,git,github,vscode,visualstudio,windows&theme=dark" />
+</p>
+
+---
+
+### stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=mft&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mft&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+```c
+while (true)
+{
+    learn();
+    build();
+    repeat();
+}
+```
+````
